@@ -22,3 +22,10 @@ b. Link to GitHub repo
 c. Link to LinkedIn post (if it exists)
 d. Screenshots of conversation (if it exists)
 e. Graph (if it exists)
+
+## Team Members:
+- Omar Waleed
+- Ahmed Ali
+- Mohammed Alaa
+- Mostafa Ahmed
+- Yassin Abd-Elgany

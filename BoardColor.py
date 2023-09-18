@@ -1,0 +1,11 @@
+AI_COLOR = "#000000"  # (0, 0, 0)
+PLAYER_COLOR = "#FEFAE0"  # (254, 250, 224)
+
+PLAYER_COLOR_STR = "White"
+AI_COLOR_STR = "Black"
+
+BLOCK1_COLOR = "#DDA15E"  # (100, 49, 0)
+BLOCK2_COLOR = "#643100"  # (221, 161, 94)
+
+VALID_COLOR = "Blue"
+
